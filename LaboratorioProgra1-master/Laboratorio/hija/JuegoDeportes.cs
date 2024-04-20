@@ -9,13 +9,13 @@ namespace LaboratorioProgra1.Laboratorio.HIja
 {
     internal class JuegoDeportes : VideoJuego
     {
-        private string reglas;
-        private string tiempo;
-        private string equipos;
+        private string reglas1;
+        private string tiempo1;
+        private string equipos1;
 
         public JuegoDeportes(string reglas, string tiempo, string equipos)
         {
-            this.reglas = reglas;
+            this.reglas1 = reglas;
             this.tiempo = tiempo;
             this.equipos = equipos;
         }
